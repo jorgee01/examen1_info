@@ -1,6 +1,6 @@
 # Corte 3 – Machine Learning e integración final
 
-> **Fecha límite de entrega: martes 13 de octubre de 2026, 23:59.**
+> **Fecha límite de entrega: jueves 15 de octubre de 2026, 23:59.**
 
 ## 1. Integrantes
 

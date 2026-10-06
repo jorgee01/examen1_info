@@ -15,9 +15,9 @@ Cada pareja deberá analizar los seis casos disponibles, seleccionar uno y desar
 
 | Corte | Fecha límite | Peso |
 |---|---|---|
-| Corte 1 – Selección y justificación del caso | **miércoles 7 de octubre de 2026, 23:59** | 20 % |
-| Corte 2 – Process Mining | **sábado 10 de octubre de 2026, 23:59** | 35 % |
-| Corte 3 – Machine Learning e integración final | **martes 13 de octubre de 2026, 23:59** | 45 % |
+| Corte 1 – Selección y justificación del caso | **jueves 8 de octubre de 2026, 11:00 a.m.** | 20 % |
+| Corte 2 – Process Mining | **martes 13 de octubre de 2026, 23:59** | 35 % |
+| Corte 3 – Machine Learning e integración final | **jueves 15 de octubre de 2026, 23:59** | 45 % |
 
 Los criterios de calificación están en [recursos/rubrica.md](recursos/rubrica.md).
 

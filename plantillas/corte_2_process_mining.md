@@ -1,6 +1,6 @@
 # Corte 2 – Process Mining
 
-> **Fecha límite de entrega: sábado 10 de octubre de 2026, 23:59.**
+> **Fecha límite de entrega: martes 13 de octubre de 2026, 23:59.**
 
 ## 1. Integrantes
 

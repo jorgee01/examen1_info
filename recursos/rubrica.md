@@ -4,9 +4,9 @@
 
 | Corte | Entrega | Peso en la nota final |
 |---|---|---|
-| Corte 1 – Selección y justificación del caso | miércoles 7 de octubre de 2026, 23:59 | **20 %** |
-| Corte 2 – Process Mining | sábado 10 de octubre de 2026, 23:59 | **35 %** |
-| Corte 3 – Machine Learning e integración final | martes 13 de octubre de 2026, 23:59 | **45 %** |
+| Corte 1 – Selección y justificación del caso | jueves 8 de octubre de 2026, 11:00 a.m. | **20 %** |
+| Corte 2 – Process Mining | martes 13 de octubre de 2026, 23:59 | **35 %** |
+| Corte 3 – Machine Learning e integración final | jueves 15 de octubre de 2026, 23:59 | **45 %** |
 
 Cada corte se califica sobre **100 puntos** usando los criterios de abajo.
 

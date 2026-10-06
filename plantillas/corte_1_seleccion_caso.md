@@ -1,6 +1,6 @@
 # Corte 1 – Selección y justificación del caso
 
-> **Este documento debe ser completado y entregado por la pareja a más tardar el miércoles 7 de octubre de 2026, 23:59.**
+> **Este documento debe ser completado y entregado por la pareja a más tardar el jueves 8 de octubre de 2026, 11:00 a.m.**
 
 ## 1. Integrantes
 
