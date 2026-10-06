@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.pyc
+.DS_Store
+
+# Material exclusivo del docente (clave de patrones y generador)
+_docente/
